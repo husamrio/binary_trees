@@ -1,7 +1,8 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_is_root - Verifies whether a given node is the root of a binary tree.
+ * binary_tree_is_root - Verifies whether a given node is the
+ * root of a binary tree.
  *
  *
  * @node: A reference (pointer) to the node that needs to be checked.
