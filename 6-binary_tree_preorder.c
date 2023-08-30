@@ -6,13 +6,14 @@
  *
  * Using pre-order traversal technique.
  *
- * @func: A reference (pointer) to a function that will be called for each node..
+ * @func: A reference (pointer) to a function that will be
+ * called for each node..
  *
  *
  *
  * @tree: A reference (pointer) to the root node of the tree
  *  that needs to be traversed.
- * 
+ *
  */
 
 void binary_tree_preorder(const binary_tree_t *tree, void (*func)(int))
