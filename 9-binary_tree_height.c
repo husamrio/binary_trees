@@ -9,7 +9,7 @@
  *
  *
  * Return: If the tree is NULL, your function should return 0;
- * 
+ *
  * otherwise, return the calculated height.
  */
 size_t binary_tree_height(const binary_tree_t *tree)
