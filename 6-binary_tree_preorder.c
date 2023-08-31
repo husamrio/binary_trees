@@ -10,8 +10,7 @@
  * called for each node..
  *
  *
- *
- * @tree: A reference (pointer) to the root node of the tree
+ * @tree: Reference (pointer) to the root node of the tree
  *  that needs to be traversed.
  *
  */
