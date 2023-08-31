@@ -8,7 +8,6 @@
  * which the count of leaves needs to be calculated.
  *
  *
- *
  * Return: The number of leaves in the tree.
  *
  */
